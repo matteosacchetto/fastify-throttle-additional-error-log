@@ -1,0 +1,11 @@
+{
+  "name": "fastify-throttle-additional-error-log",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "author": "Matteo Sacchetto",
+  "license": "MIT",
+  "dependencies": {
+    "@fastify/throttle": "^2.0.1",
+    "fastify": "^4.25.2"
+  }
+}
